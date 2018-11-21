@@ -1,5 +1,5 @@
 guest_list = ['Joan', 'Katie', 'Marion', 'Maureen', 'Brian']
-event_details ={
+event_details = {
     'date': 24,
     'month': 'November',
     'venue1': 'home',
