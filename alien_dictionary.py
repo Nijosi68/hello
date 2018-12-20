@@ -1,4 +1,5 @@
-alien_0 = {'colour': 'green', 'points': 5, 'x-position': 0, 'y-position': 25, 'speed': 'fast'}
+alien_0 = {'colour': 'green', 'points': 5, 'x-position': 0, 'y-position': 25,
+           'speed': 'fast'}
 
 print("Original x-postion: " + str(alien_0['x-position']))
 
