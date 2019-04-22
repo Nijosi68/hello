@@ -5,3 +5,6 @@ def get_formatted_name(first, last, middle=''):
     else:
         full_name = first + ' ' + last
     return full_name.title()
+
+f_name = get_formatted_name('nicholas', 'simpson', 'john')
+print(f_name)
